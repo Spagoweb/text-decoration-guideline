@@ -1,0 +1,5 @@
+.sottolineato{
+	text-decoration: underline;
+	text-decoration-thickness: 0.0625rem;
+ 	text-underline-offset: 0.1em;
+}
